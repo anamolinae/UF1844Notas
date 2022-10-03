@@ -1,4 +1,5 @@
-#Notas del curso de Desarrollo de Aplicaciones Web 
+#Notas del curso de Desarrollo de Aplicaciones Web.
+
 - Sintaxis de Java operadores, tipos, estructuras.
 
 -Leer por teclado.
